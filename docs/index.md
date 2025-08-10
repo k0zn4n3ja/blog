@@ -1,4 +1,4 @@
-# How I Learn Stuff Fast
+# How I Learn Stuff Fast (A Mistitle)
 
 I do not believe in general advice. The poet Russell Edison referred to us humans as, "teetering bulbs of dream and dread". Each written record, of advice or otherwise, is but a message in a bottle from one of these informational prisms. We throw these messages down the river of time, but we cannot ever step into a bulb and confirm for ourselves that some solution indeed would apply to us too, umodified from the author. 
 
