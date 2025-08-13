@@ -50,7 +50,7 @@ I used these a little and find they work. Don't have much to say here, I need to
 
 I had not considered it prior to this essay, but really what I am chasing is not time-optimization but flow. Wikipedia defines flow as, "...the mental state in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment...". Whilst this article is about learning fast, not well, I must defer to the cosmic philosophers on this one. In Zen and the Art of Archery the author maintains that to hit the target you must not aim for the target, which unfortunately both sounds like new-agey gobbeldy gook and seems to be true. If I aim for optimization, I find myself learning slower and with less enjoyment. If I chase flow and enjoyment, I learn better and faster. There's a military maxim, 'slow is smooth and smooth is fast'. It may be a partial restatement of the archer's doctrine.
 
-As an example, I don't use the spaced repition cards because, while I find them helpful, whilst I'm learning they take me out of _flow_, that place where you jump between concept, conversation and practice near-unconsciously, totally engrossed in your subject. I use LLMs because, while imperfect, they keep me in and deepen my flow.
+As an example, I don't use the spaced repition cards because, while I find they are fit for purpose, during learning they take me out of _flow_, that place where you jump between concept, conversation and practice near-unconsciously, totally engrossed in your subject. I use LLMs because, while imperfect, they keep me in and deepen my flow.
 
 In unexpected conclusion, if I had some takeaway, I would suggest to chase flow, engage whatever tools get you there, and discard whatever doeesn't. Bon Voyage!
 
