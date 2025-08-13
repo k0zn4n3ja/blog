@@ -14,15 +14,17 @@ Again, I don't give advice, so I offer this only as a record for your bulb's tin
 
 ## Just Read the Textbook
 
-This is always the fastest way. Despite the university student's griping, textbooks are great. They dense with digestible information progressing in exactly the way you need it to, and you can just read them like a book - you don't need to do the exercises (more on that below). Whilst there are a million textbooks for each subject due to how university publishing works, there are generally "standards" in a subject which these days are pretty easy to discern from online discourse.
+This is always the fastest way. Despite the university student's griping, textbooks are great. They are dense with digestible information progressing in exactly the way you need it to, and you can just read them like a book - you don't need to do the exercises (more on that below). Whilst there are a million textbooks for each subject due to how university publishing works, there are generally "standards" in a subject which these days are pretty easy to discern from online discourse. Some of my favourites:
 
 - University Physics by Young and Friedman
 - Russel and Norvig's Artificial Intelligence
 - A Course of Pure Mathematics - GH Hardy
 
-A note on the last one: for some reason math textbooks from pre-1970 are the hottest of hot fire. I could do a whole separate post on how I learned math up to calculus from old soviet correspondence books and a smattering of old-timey british classics. 
+A note on the last one: for some reason math textbooks from pre-1970 are the hottest of hot fire. I could do a whole separate post on how I learned math up to calculus from old Soviet correspondence books and a smattering of old-timey British classics. 
 
 Despite the preponderence of contemporary multi-media learning platforms, I do not find them superior to reading textbooks. Without any proof or method, I consider the depth of learning from books exponential rather than linear in the material you cover - so, for n-length material (let's say, words and images), you get n^2 learning from a book and only n from whatever combination of youtube videos, online courses, etc. I can't explain why but that is my experience. 
+
+There is an interesting consequence if that's the case - there might be a time when the linear learning progress seems faster because of how quadratic functions increase in n. This also matches my experience, where I start off confused and irritated with a new subject but end up burning through complex scenarios at a very agreeable pace.
 
 ## Make Something in Tandem
 
