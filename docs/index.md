@@ -17,7 +17,9 @@ Now, we come to the point of this little story. After one of our little playfigh
 So anyway he comes up to me and he says:
 
 Boy: Did you see the blind feller at East Ham station? 
+
 Me: No, no I didn't
+
 Boy: He didn't either.
 
 Oh ho ho - not bad, not bad at all!
@@ -27,17 +29,20 @@ Boy: Did you hear about the deaf feller at West Ham station
 Now, I know what's coming next but I love a good joke so I need to play the straight man here. 
 
 Me: No, no I didn't (tee hee).
+
 Boy: Well he didn't either!
 
 Ho ho ho, these jokes aren't great but I'm an easy mark and thoroughly tickled by the bit.
 
 Boy: Why are you so shite at boxing? 
+
 Me (continuing with the bit): I don't know, why am I so shit at boxing?
+
 Boy: Oh no, that's not a joke, I'm really asking. You boys are RUBBISH.
 
 10-7 round, set up on rule of threes and demolished in the closer. Still the best insult I've ever received.
 
-* I conducted my short amateur boxing career entirely in secret from her up to an including a match, but that's another story. 
+\* I conducted my short amateur boxing career entirely in secret from her up to an including a match, but that's another story. 
 
 # How I Learn Stuff Fast (A Mistitle)
 
