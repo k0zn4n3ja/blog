@@ -1,3 +1,44 @@
+# A Moment in Time
+
+I was living in London, working through various personal demons whilst taking whatever ill-advised truck-and-barter the city would throw at me for work. This was in my early twenties, when the body was robust and I could freely engage in my hobby of boxing another man for fun and no profit, several tens of thousands of kilometres away from my beloved mother's worried vigil*. I was living in Leytonstone, a solid working class neighbourhood with lightly simmering undertones young folk getting into gangs, and found a good gym called "West Ham Boxing Gym" nearby. 
+
+For those who don't know England's boxing scene, West Ham is one of the finest amateur boxing institutions in the world, producing Olympians on a run-of-the-mill basis. Needless to say, the coach was not at all enthused on training a 23-year-old with no fights to his name given there were boys under ten in the place sparring rounds to make a grown man (me) blush. But, with a bit of negotiation, charm and base pleading, they agreed to add me to the kindergarten class and have me train with the aforementioned minature destroyers.
+
+Other than the young ones the only other adult was a Syrian fellow in his late teens, and rather than have me punch small children I would exclusively spar with him. Round after round, weight classes not quite matching up, we would have a go to and fro in the manner you would expect a practice boxing match to proceed. 
+
+Side note: if you think this is a story about me rising through the ranks and taking my place next to Lennox as a great of the British halls, prepare to be disappointed.
+
+Now, we come to the point of this little story. After one of our little playfights I was getting changed in the locker and this little urchin, this little ruddeger comes up to me. He's maybe 10 years old and I assume he's an Irish traveller, mainly because:
+
+1. He spoke with an Irish accent
+2. He spoke with the confident air of a veteran deep sea fisherman
+3. He really really looked like he liked fighting
+
+So anyway he comes up to me and he says:
+
+Boy: Did you see the blind feller at East Ham station? 
+Me: No, no I didn't
+Boy: He didn't either.
+
+Oh ho ho - not bad, not bad at all!
+
+Boy: Did you hear about the deaf feller at West Ham station
+
+Now, I know what's coming next but I love a good joke so I need to play the straight man here. 
+
+Me: No, no I didn't (tee hee).
+Boy: Well he didn't either!
+
+Ho ho ho, these jokes aren't great but I'm an easy mark and thoroughly tickled by the bit.
+
+Boy: Why are you so shite at boxing? 
+Me (continuing with the bit): I don't know, why am I so shit at boxing?
+Boy: Oh no, that's not a joke, I'm really asking. You boys are RUBBISH.
+
+10-7 round, set up on rule of threes and demolished in the closer. Still the best insult I've ever received.
+
+* I conducted my short amateur boxing career entirely in secret from her up to an including a match, but that's another story. 
+
 # How I Learn Stuff Fast (A Mistitle)
 
 I do not believe in general advice. The poet Russell Edison referred to us humans as, "teetering bulbs of dream and dread". Each written record, of advice or otherwise, is but a message in a bottle from one of these informational prisms. We throw these messages down the river of time, but we cannot ever step into a bulb and confirm for ourselves that some solution indeed would apply to us too, umodified from the author. 
